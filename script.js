@@ -1,6 +1,4 @@
-function compar(){
-    location.href="indexTicket.html"
-}
+
 
 function borrar(){
     document.getElementById('nombre').value=""
